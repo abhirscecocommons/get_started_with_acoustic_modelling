@@ -1,0 +1,13 @@
+species,common_name,lat,lon,date,confidence,n_detections
+Colluricincla harmonica,Gray Shrikethrush,-28.846,152.0499,2026-02-21,0.553,1
+Cormobates leucophaea,White-throated Treecreeper,-28.846,152.0499,2026-02-21,0.503,1
+Corvus coronoides,Australian Raven,-28.846,152.0499,2026-02-21,0.734,1
+Edolisoma tenuirostre,Common Cicadabird,-28.846,152.0499,2026-02-21,0.998,13
+Edolisoma tenuirostre,Common Cicadabird,-28.2004,153.1893,2025-02-23,0.913,2
+Melithreptus albogularis,White-throated Honeyeater,-29.6266,153.2959,2026-02-20,0.996,12
+Melithreptus albogularis,White-throated Honeyeater,-28.2307,153.1359,2025-10-26,0.865,4
+Melithreptus albogularis,White-throated Honeyeater,-27.8038,153.4284,2024-09-24,0.994,4
+Melithreptus albogularis,White-throated Honeyeater,-12.4422,130.9102,2023-08-04,0.688,3
+Pardalotus punctatus,Spotted Pardalote,-28.846,152.0499,2026-02-21,0.514,1
+Ptiloris magnificus,Magnificent Riflebird,-15.1972,144.4289,2025-10-30,0.758,1
+Sphecotheres vieilloti,Australasian Figbird,-15.1972,144.4289,2025-10-30,0.738,1

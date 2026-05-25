@@ -1,0 +1,11 @@
+recording_id,species,file,exists,file_size_kb,duration_s,sample_rate,snr_db,status,flag
+XC1084935,Edolisoma tenuirostre,XC1084935.mp3,True,397.3,10.0,48000,8.3,ok,
+XC1084937,Edolisoma tenuirostre,XC1084937.mp3,True,510.8,12.89,48000,10.6,ok,
+XC1084936,Edolisoma tenuirostre,XC1084936.mp3,True,2929.5,74.82,48000,8.3,ok,
+XC1084934,Edolisoma tenuirostre,XC1084934.mp3,True,948.6,24.1,48000,5.6,ok,
+XC1088936,Edolisoma tenuirostre,XC1088936.mp3,True,962.7,24.47,48000,18.6,ok,
+XC1086697,Melithreptus albogularis,XC1086697.mp3,True,3794.9,96.98,48000,11.4,ok,
+XC1080953,Melithreptus albogularis,XC1080953.mp3,True,218.1,13.58,44100,8.5,ok,
+XC1066686,Melithreptus albogularis,XC1066686.mp3,True,481.5,30.53,48000,12.1,ok,
+XC935474,Melithreptus albogularis,XC935474.wav,True,4373.7,23.33,48000,5.2,ok,
+XC822066,Melithreptus albogularis,XC822066.wav,True,3786.5,40.39,48000,2.2,ok,low SNR (<3 dB)
